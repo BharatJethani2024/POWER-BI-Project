@@ -23,3 +23,6 @@ Tool used:
 My SQL Workbench
 
 Microsoft Power BI
+
+If you do not have a Microsoft account, you can access the project [here](https://github.com/BharatJethani2024/POWER-BI-Project/blob/main/PowerBI%20Data%20Visualization%20Sales%20View.pdf)).
+
