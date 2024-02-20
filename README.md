@@ -17,6 +17,14 @@ Implement features such as trend analysis, revenue breakdowns, and customer segm
 Enable automated monthly email reports to keep Bhavan informed about the company's performance without the need for manual data retrieval.
 By delivering a user-friendly Power BI solution, this project aims to empower Bhavan Patel with the tools necessary to make strategic decisions and drive sales growth for AtliQ Hardware.
 
+In this Project work done as below:
+
+✅ Data Analysis using SQL
+
+✅ Data Cleaning 
+
+✅ PowerBI Dashboard
+
 
 Tool used:
 
